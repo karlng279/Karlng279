@@ -1,6 +1,6 @@
 # Hi, I’m Karl 👋
 
-I’m a **technical product manager** who turns messy logistics workflows into usable software.
+I’m a **Technical Product Manager** who turns messy logistics workflows into usable software.
 
 I started on the engineering side, moved into product, and now sit in the middle of **shipping & logistics, AI, and hands-on delivery** — building tools that help operations teams move goods, information, and decisions faster.
 
