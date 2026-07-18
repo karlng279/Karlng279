@@ -28,6 +28,6 @@ I speak both languages: carrier rules, cut-offs, and compliance on one side; API
 
 ## 🔗 Connect
 
-[LinkedIn](https://www.linkedin.com/in/huynhnq94/) · [Website](https://karl-nguyen.com) · [VX Solutions](https://vxsolutions.tech/) · [X](https://x.com/karla27094)
+[LinkedIn](https://www.linkedin.com/in/huynhnq94/) · [Website](https://karl-nguyen.com)
 
 Happy to talk **logistics products, AI for operations, or PM workflows.**
